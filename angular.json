@@ -23,8 +23,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.scss",
-              "src/assets/tether/tether.min.css"
+              "src/styles.scss"
+              
             ],
             "scripts": []
           },
